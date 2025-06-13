@@ -1,12 +1,8 @@
-# Search-Engine-On-DSA-Questions
-DSA Search Engine Link: https://dsa-search-engine-seven.vercel.app/search?q=tree
+# INSTALLATION:
+npm i
+npm run dev 
+localhost 3000(in chrome or any extension you use)
 
-## Search Results:
-Search results on Binary Search:
-![s5](https://github.com/meaashishsingh/image-of-dsa-search-engine/blob/main/Screenshot%202024-10-15%20170711.png)
-
-Search results on Linked List:
-![s6](https://github.com/meaashishsingh/image-of-dsa-search-engine/blob/main/Screenshot%202024-10-15%20170743.png)
 
 ## Description:
 This project presents a search engine for Data Structures and Algorithms (DSA) questions. It involves an extensive scraping process, where 2905 problems were extracted from LeetCode using Selenium WebDriver and BeautifulSoup in Python. To ensure the data's cleanliness and usability, Natural Language Toolkit (NLTK) text processing libraries were employed for processing and cleaning the scraped information.
